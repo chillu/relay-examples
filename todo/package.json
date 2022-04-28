@@ -58,14 +58,5 @@
     "trailingComma": "all",
     "bracketSpacing": false,
     "jsxBracketSameLine": true
-  },
-  "relay": {
-    "language": "flow",
-    "src": "./js",
-    "schema": "./data/schema.graphql",
-    "artifactDirectory": "./__generated__/relay",
-    "persistConfig": {
-      "file": "./__generated__/relay/queries.json"
-    }
   }
 }
